@@ -1,0 +1,52 @@
+Summary of the parameters you supplied
+A mail will be sent to address: dubay.11@osu.edu when the simulation is completed
+The name of the file containing the result of the simulation will be: 1647876083.448151.resu
+Field of view:
+distance step mode: progressive
+small field
+Longitude: 200.00
+Latitude: 59.00
+solid angle: 0.25
+Extinction:
+diffuse absorption: 0.700 mag/kpc
+no discrete clouds
+
+parameter 	min 	max 	step
+Absolute V magnitude 	-7.00 	20.00 	0.50
+Spectral type 	1 	9.5 	0.1
+Luminosity class 	1 	7 	1.00
+Population-age 	1 	10 	1
+[Fe/H] 	-4.20 	1.50 	0.30
+Distance 	0.000000 	300 	2.00
+V app. magnitude 	0 	28 	1
+B-V 	-99.00 	99.00 	10.00
+U-B 	-99.00 	99.00 	10.00
+V-I 	-99.00 	99.00 	10.00
+V-K 	-99.00 	99.00 	10.00
+alpha proper motion 	-10.00 	10.00 	100
+delta proper motion 	-10.00 	10.00 	100
+Radial velocity 	-500.00 	500.00 	500
+u velocity 	-500.00 	500.00 	10.00
+v velocity 	-500.00 	500.00 	10.00
+w velocity 	-500.00 	500.00 	10.00
+Total proper motion 	0.00 	1000.00 	10.00
+LogTeff 	3.00 	6.00 	0.10
+Errors:
+error mode:parabolic error = A + B*m + C*m2
+photometric errors:
+photometric band 	A 	B 	C
+V 	0.000000 	0.000000 	0.000000
+B 	0.000000 	0.000000 	0.000000
+U 	0.000000 	0.000000 	0.000000
+R 	0.000000 	0.000000 	0.000000
+I 	0.000000 	0.000000 	0.000000
+J 	0.000000 	0.000000 	0.000000
+H 	0.000000 	0.000000 	0.000000
+K 	0.000000 	0.000000 	0.000000
+L 	0.000000 	0.000000 	0.000000
+proper motion errors:
+A 	B 	C
+0.000000 	0.000000 	0.000000
+radial velocity errors:
+A 	B 	C
+0.000000 	0.000000 	0.000000
